@@ -1,4 +1,4 @@
 # CodeDeployGitHubDemo
 CodeDeployGitHubDemo
 
-Sample Project To Learn CodeDeploy
+Sample Project To Learn CodeDeploy on AWS
